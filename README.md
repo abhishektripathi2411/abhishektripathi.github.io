@@ -25,4 +25,4 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 ## 💼 Work Experience
 
 #### Information Developer 
-> `Subex Limited` `[June'22 - Present]`
+`Subex Limited` `[June'22 - Present]`

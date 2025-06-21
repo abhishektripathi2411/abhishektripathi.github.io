@@ -1,15 +1,14 @@
 # Abhishek Tripathi
 
-Welcome to my GitHub! I'm a passionate [Your Role/Title] who loves working with [Tech/Field].
+Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating documents.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **[Project Name or Topic]**
-- 🌱 I’m learning: **[Technology/Tool]**
-- 💬 Ask me about: **[Topics you like]**
-- ⚡ Fun fact: **[Fun, quirky or surprising detail]**
+- Proficient technical writer with 7+ years of work experience managing documentation needs across various industries.
+- Adept at creating clear and concise user manuals, guides, context-sensitive web help files, and training materials that enhance user understanding and engagement.
+- Aims to leverage technical writing expertise to bridge the gap between stakeholders through quality documents and improve overall productivity.
 
 ---
 

@@ -13,17 +13,17 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 ---
 
 ## 🛠️ Tech Stack
-###### **Authoring Standard**
- > MSTP, Single Source Handling, DITA XML <br>
-###### **Content Management**
- > Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint <br>
-**Markup Language**
- > Markdown, HTML <br>
-**Project Management Tool**
- > JIRA, Microsoft Team, Confluence <br>
-**Visual Content**
- > Microsoft Visio, SnagIT, ScreenToGif, Snipping Tool <br>
-**Version Control**
- > GIT, TortoiseSVN <br>
+##### **Authoring Standard**
+ > MSTP, Single Source Handling, DITA XML
+##### **Content Management**
+ > Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint
+##### **Markup Language**
+ > Markdown, HTML 
+##### **Project Management Tool**
+ > JIRA, Microsoft Team, Confluence 
+##### **Visual Content**
+ > Microsoft Visio, SnagIT, ScreenToGif, Snipping Tool
+##### **Version Control**
+ > GIT, TortoiseSVN
 
 ---

@@ -14,16 +14,16 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 
 ## 🛠️ Tech Stack
 **Authoring Standard**
-> MSTP, Single Source Handling, DITA XML
+>> MSTP, Single Source Handling, DITA XML
 **Content Management**
-> Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint
+>> Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint
 **Markup Language**
-> Markdown, HTML
+>> Markdown, HTML
 **Project Management Tool**
-> JIRA, Microsoft Team, Confluence
+>> JIRA, Microsoft Team, Confluence
 **Visual Content**
-> Microsoft Visio, SnagIT, ScreenToGif, Snipping Tool
+>> Microsoft Visio, SnagIT, ScreenToGif, Snipping Tool
 **Version Control**
-> GIT, TortoiseSVN
+>> GIT, TortoiseSVN
 
 ---

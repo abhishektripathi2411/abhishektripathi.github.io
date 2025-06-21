@@ -22,29 +22,3 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 <!-- Add or remove badges as needed -->
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=wordpress&logoColor=white)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
-
----
-
-## 📈 Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-

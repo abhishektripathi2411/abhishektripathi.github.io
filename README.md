@@ -13,12 +13,17 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 ---
 
 ## 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- Add or remove badges as needed -->
+**Authoring Standard**
+> MSTP, Single Source Handling, DITA XML
+**Content Management**
+> Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint
+**Markup Language**
+> Markdown, HTML
+**Project Management Tool**
+> JIRA, Microsoft Team, Confluence
+**Visual Content**
+> Microsoft Visio, SnagIT, ScreenToGif, Snipping Tool
+**Version Control**
+> GIT, TortoiseSVN
 
 ---

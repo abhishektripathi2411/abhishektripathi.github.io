@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Abhishek Tripathi
 
 Welcome to my GitHub! I'm a passionate [Your Role/Title] who loves working with [Tech/Field].
 

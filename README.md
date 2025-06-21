@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 
 ## 🛠️ Tech Stack
 **Authoring Standard**
- > MSTP, Single Source Handling, DITA XML
+ > MSTP, Single Source Handling, DITA XML <br>
 **Content Management**
  > Adobe Robohelp, Adobe Frame Maker, Microsoft Word, Sharepoint
 **Markup Language**

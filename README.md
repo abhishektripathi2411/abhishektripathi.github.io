@@ -25,9 +25,9 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 ## 💼 Work Experience
 
 | Designation | Company | Period |
-|-------------|---------|--------|
+|:-------------:|:---------:|:--------:|
 |Information Developer|Subex Limited| Jun'22 - Present |
 |Management Trainee|Himatsingka Limited| Nov'20 - Jun'22|
-|Engineer|Toshiba Transmission & Distribution System| Aug'15 - Aug'18|
+|Engineer|Toshiba | Aug'15 - Aug'18|
 
 ---

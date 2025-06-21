@@ -21,3 +21,7 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 - **Version Control**: GIT, TortoiseSVN
 
 ---
+
+## 💼 Work Experience
+
+#### Information Developer `Subex Limited` `[June'22 - Present]`

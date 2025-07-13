@@ -1,4 +1,4 @@
-# Abhishek Tripathi
+# Abhishek
 
 Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating documents.
 

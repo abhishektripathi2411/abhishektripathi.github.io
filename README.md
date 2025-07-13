@@ -1,4 +1,4 @@
-# Abhishek
+# Abhishek Tripathi
 
 Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating documents.
 
@@ -31,3 +31,7 @@ Welcome to my GitHub! I'm a passionate **Technical Writer** who loves creating d
 |Engineer|Toshiba | Aug'15 - Aug'18|
 
 ---
+
+## Achievement
+
+- Regional Level Bronze Medal Swimming Player
